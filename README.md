@@ -1,0 +1,2 @@
+Primero e√l colaborador utiliza el codigo conjunto (rama  main), desarrolla su codigo para despues ser absorvido por la main.Antes de ser absorvido el lider desarrolla su codigo, primero se absorve el colaborador 
+y despues el lider.La utilidad de las ramas es la capacidad de varias personas desarrolar el codigo a la vez sin interrunpirse, el merge squash es una union normal, solo que crea un commit cuando se unen. 
