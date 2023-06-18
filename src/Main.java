@@ -6,5 +6,8 @@ public class Main {
         System.out.printf("1º Colaborador");
         System.out.printf("2º Colaborador");
         System.out.printf("3º Colaborador");
+        System.out.printf("1º lider");
+        System.out.printf("2º lider");
+        System.out.printf("3º lider");
     }
 }
